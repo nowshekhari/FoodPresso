@@ -60,4 +60,4 @@ To set up the project locally:
 5. Open `http://localhost:3000` to view it in the browser.
 
 ## Contributing
-We welcome contributions! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue to discuss what you would like to change.
+I welcome contributions! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue to discuss what you would like to change.
